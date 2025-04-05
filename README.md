@@ -28,3 +28,8 @@ This project uses **Enhanced Super-Resolution Generative Adversarial Networks (E
 ```bash
 git clone https://github.com/yourusername/esrgan-super-resolution.git
 cd esrgan-super-resolution
+```
+
+## 🚀 Pretrained model
+```bash
+https://drive.google.com/file/d/1pJ_T-V1dpb1ewoEra1TGSWl5e6H7M4NN/view
